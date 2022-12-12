@@ -1,1 +1,1 @@
-# Trex--AI
+# Automated-trex
